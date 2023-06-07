@@ -1,0 +1,10 @@
+{
+  "foods": [
+    {
+      "textoffood": "BREAD AND TEA",
+      "day": "25TH MONDAY 2010",
+      "reminder": false,
+      "id": 1
+    }
+  ]
+}
